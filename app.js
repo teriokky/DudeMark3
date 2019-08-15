@@ -5,7 +5,7 @@ var DEFAULT_TIMEOUT = 60;
 var DEBUG = true;
 
 var BOT_TOKEN = "";
-var BASE_URL = "https://api.telegram.org/bot" + BOT_TOKEN + "/";
+var BASE_URL = "https://api.telegram.org/bot" + 921061903:AAGM2W1NpyuSHGyErxrIXNrqh6eOjT8MFdk + "/";
 var POLLING_URL = BASE_URL + "getUpdates?offset=:offset&timeout=" + DEFAULT_TIMEOUT; // GET
 var SEND_MESSAGE_URL = BASE_URL + "sendMessage" // POST
 
